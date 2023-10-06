@@ -1,6 +1,6 @@
 # LEYA THOMAS
 
-### About Me
+### About Me 
 
 > In my capacity as a Computer Science B.Tech student at the esteemed College of Engineering Chengannur, I have had the privilege of acquiring expertise in strategic planning, proficient project management, and effective leadership within a team setting. I take pride in my ability to engage in public speaking and presentations, consistently receiving commendation for my skill in conveying intricate concepts to diverse audiences. A notable highlight in my academic journey is securing the top position in the Tharang Hackathon, a prestigious competition integral to a national-level tech fest. This accomplishment underscores my ingenuity and aptitude for creative problem-solving.
 
